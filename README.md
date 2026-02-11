@@ -1,4 +1,4 @@
-# 💼 Multi-Page Internship Portfolio – Front-End Project
+# 💼 Multi-Page Portfolio – Front-End Project
 
 This is a **multi-page portfolio website** built during my internship to showcase the work for the CEO of the company.  
 The portfolio demonstrates real-world front-end development skills, multi-page navigation, responsive design, and professional UI/UX practices.
@@ -36,7 +36,7 @@ To run this project locally:
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/multi-page-internship-portfolio.git
+   git clone https://github.com/areebch-dev/Sumsol-Profolio.git
 2. Open index.html in your preferred browser
   ```bash
         start index.html
